@@ -1,0 +1,3 @@
+com\demo\config\UserAutoConfigure.class
+com\demo\config\UserProperties.class
+com\demo\service\UserClient.class
